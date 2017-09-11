@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise2aa</string>
+    <string name="twName">Name:</string>
+    <string name="twPass">Password:</string>
+    <string name="buttonLogin">Login</string>
+</resources>
